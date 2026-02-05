@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey!👋 Nice to meet you. I'm Rashad. 🛡️
 
 🚀 About Me
 
