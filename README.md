@@ -1,6 +1,9 @@
 # Hi, I'm Mohamed Rashad 👋
 ### Systems Engineer | Infrastructure & Security Operations 🛡️
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Rashad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mohamed-rashad-bits)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pmohamedrashad@protonmail.com)
+
 **BITS Pilani (B.Tech) Graduate** transitioning from 3+ years of Industrial Systems Engineering (Siemens) into Enterprise Cybersecurity. I specialize in building and securing resilient network architectures.
 
 ---
