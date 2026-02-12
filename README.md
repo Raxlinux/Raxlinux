@@ -1,22 +1,40 @@
-## Hey!👋 Nice to meet you. I'm Rashad. 🛡️
+# Hi, I'm Mohamed Rashad 👋
+### Systems Engineer | Infrastructure & Security Operations 🛡️
 
-🚀 About Me
+**BITS Pilani (B.Tech) Graduate** transitioning from 3+ years of Industrial Systems Engineering (Siemens) into Enterprise Cybersecurity. I specialize in building and securing resilient network architectures.
 
-I have always been fascinated by the "language" of technology—how computers and the internet communicate across the globe. Though my academic journey began in Electrical and Electronics Engineering, my curiosity for the digital world never faded.
+---
 
-⚡ The Transition
+## 🏗️ The Professional Pivot
+I am leveraging my deep background in **Siemens Control and Relay Panel (CRP) Testing**—where system uptime and logical isolation are critical—to solve modern IT security challenges. I am currently executing a **365-Day Specialized Security Roadmap**, moving from fundamental networking to advanced threat hunting.
 
-For over 3 years, I worked in the manufacturing industry, specifically in Siemens Control and Relay Panel testing. While I excelled in the physical side of technology, my goal was always the digital frontier: Cybersecurity.
+* 🎓 **Education:** B.Tech in Engineering & Technology, BITS Pilani (2025)
+* ⚙️ **Background:** 2+ Years in Manufacturing & Industrial Testing Engineer
+* 🎯 **Focus:** Network Security, Linux Hardening, & SOC Operations
 
-Because I believe that in a world driven by rapid technological advancement, security is not just a feature—it is a fundamental human necessity.
+---
 
-🎓 Education & Evolution
+## 🛠️ Technical Arsenal
+| Networking | Systems & Scripting | Security & Tools |
+| :--- | :--- | :--- |
+| TCP/IP, IPv4 (VLSM) | Linux (Ubuntu/Debian) | Wireshark (Packet Analysis) |
+| VLAN Segmentation | Bash Scripting | Nmap (Network Discovery) |
+| Router-on-a-Stick (ROAS) | Windows Administration | IAM & Access Control |
+| Cisco IOS Configuration | Hardware Troubleshooting | Risk Assessment |
 
-To bridge the gap between my professional experience and my passion, I enrolled in the BITS Pilani WILP program, graduating in 2025 with a B.Tech in Engineering and Technology. This degree provided the academic foundation I needed to finally pivot toward my true calling.
+---
 
-🛡️ Current Mission: 365 Days of Security
+## 🚀 Featured Labs & Proof of Work
+*Check out my [Portfolio Repository](https://github.com/Raxlinux/Portfolio-2026) for full documentation.*
 
-I am currently executing a rigorous 1-year specialized training plan—a curriculum I designed by blending AI-driven insights with current industry trends.
+* **[Enterprise Network Segmentation](./Portfolio-2026/Enterprise-Networking/01-Multi-VLAN-Design):** Designed and simulated a 5-department secure network using VLSM and 802.1Q encapsulation.
+* **[Wireshark Traffic Deep-Dive](./Portfolio-2026/Enterprise-Networking/02-Wireshark-Traffic-Analysis):** Analyzed ARP/ICMP traffic to identify network behavior and potential security gaps.
+* **[Interactive 12-Month Roadmap](./Portfolio-2026/roadmap):** My live-hosted web portal tracking my daily technical milestones.
 
-This repository is more than just code; it is my journey. It serves as my living portfolio, documenting every lab, every commit, and every breakthrough. My goal is simple: to build a body of work so robust that it speaks for itself.
+---
 
+## 📊 365 Days of Security Progress
+| Phase | Focus | Status |
+| :--- | :--- | :--- |
+| **Phase 1** | Networking Infrastructure (CCNA Level) | 🟩 Active |
+| **Phase 2** | Linux & Windows
