@@ -28,7 +28,7 @@ I am leveraging my deep background in **Siemens Control and Relay Panel (CRP) Te
 ---
 
 ## 🚀 Featured Labs & Proof of Work
-*Check out my [Portfolio Repository](https://github.com/Raxlinux/Portfolio-2026) for full documentation.*
+*Check out my [Portfolio Repository](https://github.com/Raxlinux/MohamedRashad-Portfolio-2026) for full documentation.*
 
 * **[Enterprise Network Segmentation](./Portfolio-2026/Enterprise-Networking/01-Multi-VLAN-Design):** Designed and simulated a 5-department secure network using VLSM and 802.1Q encapsulation.
 * **[Wireshark Traffic Deep-Dive](./Portfolio-2026/Enterprise-Networking/02-Wireshark-Traffic-Analysis):** Analyzed ARP/ICMP traffic to identify network behavior and potential security gaps.
