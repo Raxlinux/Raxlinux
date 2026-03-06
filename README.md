@@ -9,7 +9,7 @@
 ---
 
 ## 🏗️ The Professional Pivot
-I am leveraging my deep background in **Siemens Control and Relay Panel (CRP) Testing**—where system uptime and logical isolation are critical—to solve modern IT security challenges. I am currently executing a **365-Day Specialized Security Roadmap**, moving from fundamental networking to advanced threat hunting.
+I am leveraging my deep background in **Siemens Control and Relay Panel (CRP) Testing** - where system uptime and logical isolation are critical—to solve modern IT security challenges. I am currently executing a **365-Day Specialized Security Roadmap**, moving from fundamental networking to advanced threat hunting.
 
 * 🎓 **Education:** B.Tech in Engineering & Technology, BITS Pilani (2025)
 * ⚙️ **Background:** 2+ Years in Manufacturing & Industrial Testing Engineer
